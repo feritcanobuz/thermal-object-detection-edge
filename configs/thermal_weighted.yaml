@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/tez/data
+train: train_weighted/images
+val: val/images
+names:
+  0: Person
+  1: Bicycle
+  2: Car
+  3: Dog

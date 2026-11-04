@@ -1,0 +1,12 @@
+ultralytics>=8.3
+torch
+opencv-python
+albumentations>=2.0
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+pyyaml
+onnx
+onnxruntime

@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/tez/data
+train: train/images
+val: val/images
+nc: 4
+names:
+- Person
+- Bicycle
+- Car
+- Dog
